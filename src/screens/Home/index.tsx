@@ -73,9 +73,7 @@ export function Home() {
                     style={styles.matches}
                     showsVerticalScrollIndicator={false}
                 />
-
             </View>
-
         </View>
     );
 }
